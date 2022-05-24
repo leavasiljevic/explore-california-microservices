@@ -2,8 +2,8 @@
 
 
 Mary Ellen Bowman
-https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice/creating-apis-with-spring-data-rest?autoSkip=true&autoplay=true&resume=false&u=93556641
-
+Creating Your First Spring Boot Microservice
+https://www.linkedin.com/
 
 Course details
 1h 48m
